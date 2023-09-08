@@ -6,6 +6,11 @@ MediaPipe란 구글에서 제공하는 AI 프레임워크로서, 비디오형식
 
 AI 모델개발 및 수많은 데이터셋을 이용한 학습도 마친 상태로 제공되므로 라이브러브 불러 사용하듯이 간편하게 호출하여 사용하기만 하면 되는 형태로 비전 AI 기능을 개발할 수 있다.   
 
+## 코드 요약
+json파일을 불러와 손 이미지의 x, y 좌표, width, height를 추출하였다.
+
+---
+### 다양한 Pose Estimation API
 대표적으로 MediaPipe와 Open Pose가 있다.
 1. MediaPipe
 * 제작사: Google
