@@ -1,0 +1,22 @@
+{
+	"0": [
+		{
+			"file_name": "output2_1/frame0.jpg",
+			"frame_idx": 0,
+			"width": 0,
+			"height": 0,
+			"subject": 0,
+			"joint": []
+		}
+	],
+	"1": [
+		{
+			"file_name": "output2_1/frame1.jpg",
+			"frame_idx": 4,
+			"width": 0,
+			"height": 0,
+			"subject": 0,
+			"joint": []
+		}
+	]
+}
