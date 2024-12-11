@@ -35,3 +35,9 @@ json파일을 불러와 손 이미지의 x, y 좌표, width, height를 추출하
   - 인간의 포즈를 비디오나 이미지에서 감지하기 위한 오픈소스 라이브러리
   - OpenPose는 딥러닝 모델을 기반으로 함
   - 각 관절의 위치와 방향을 추정하는 것 외에도 손가락 추적, 얼굴 감지 등 다양한 기능을 제공
+ 
+
+### 분석결과
+![frame0](https://github.com/user-attachments/assets/25a04bca-d757-42d2-876e-9d1eaee33be4)
+![Untitled](https://github.com/user-attachments/assets/fa3e174e-d446-49ed-aa57-84c9849c4029)
+
